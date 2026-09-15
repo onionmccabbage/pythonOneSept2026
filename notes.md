@@ -3,6 +3,7 @@
 - Download for Win, Mac or Linux
 - Carefully follow website instructions to install
 - Make sure you install it to somewhere it can run from
+
 NB you can easily uninstall Anaconda if you don't wish to keep it
 
 ### Getting Jupyter Running

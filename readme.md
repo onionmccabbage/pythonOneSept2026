@@ -53,6 +53,7 @@ This day covers Python and Data Analysis in preparation for later work with gene
 #### Assignment 1
 - When reading in the supplied .csv and .xlsx files you will often need to add `date_format='%m/%d/%y'` 
 #### Assignment 2
+`https://raw.githubusercontent.com/onionmccabbage/pythonOneSept2026/refs/heads/main/StockData/BA.csv`
 - Exercise 1: use `format='%m/%d/%y'` (instead of format=r'%Y-%m-%d')
 - Exercise 6: `fundamentals.csv` is in `ExData` folder
   - step 6: may be better off using:

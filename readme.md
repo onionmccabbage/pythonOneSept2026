@@ -9,7 +9,7 @@ September 2026 - Toby Dussek
 * 5:00 done
 
 #### Course website: 
-`https://github.com/onionmccabbage/pythonOne_Sept2026`
+`https://github.com/onionmccabbage/pythonOneSept2026`
 
 ### What we will do today
 This day covers Python and Data Analysis in preparation for later work with generative  tools

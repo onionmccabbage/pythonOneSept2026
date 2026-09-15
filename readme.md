@@ -8,6 +8,9 @@ September 2026 - Toby Dussek
 * 3:30 afternoon break (20 mins)
 * 5:00 done
 
+#### Course website: 
+`https://github.com/onionmccabbage/pythonOne_Sept2026`
+
 ### What we will do today
 This day covers Python and Data Analysis in preparation for later work with generative  tools
 * Welcome, tech check and where to get help & resources

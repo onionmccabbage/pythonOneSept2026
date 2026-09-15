@@ -9,6 +9,7 @@ September 2026 - Toby Dussek
 * 5:00 done
 
 ### What we will do today
+This day covers Python and Data Analysis in preparation for later work with generative  tools
 * Welcome, tech check and where to get help & resources
 * Comparing Excel and Python
 * Overview: using Jupyter

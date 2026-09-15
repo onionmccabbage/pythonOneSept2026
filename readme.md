@@ -48,20 +48,8 @@ This day covers Python and Data Analysis in preparation for later work with gene
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Things to watch for
+`https://raw.githubusercontent.com/onionmccabbage/pythonOneSept2026/refs/heads/main/StockData/SP500.csv`
 #### Assignment 1
 - When reading in the supplied .csv and .xlsx files you will often need to add `date_format='%m/%d/%y'` 
 #### Assignment 2
